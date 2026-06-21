@@ -30,6 +30,9 @@ Through this project, I gained hands-on experience with:
 ->UI Replication from Real-World Websites
 ->Project Organization and Best Practices
 
+🔗Live Demo:
+ https://minku3613.github.io/Amazon-Clone/
+
 🔮 Future Improvements:
 ->Add JavaScript for interactivity
 ->Implement Product Search Functionality
